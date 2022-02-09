@@ -1,11 +1,13 @@
 ![Harshil's GitHub Banner](./assets/GitHubHeader.png)
-
+![Visits Badge](https://komarev.com/ghpvc/?username=shuklaharshil&label=PROFILE+VIEWS)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shuklaharshil/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/shuklaharshil)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=0D76A8)](https://codepen.io/shuklaharshil)
 
-Hey there 👋
+Hey there, <img src="https://github.com/itsvinayak/itsvinayak/blob/master/assets/Hi.gif" height="30px" />
 
 I’m Harshil, software engineer, creative coder and self-proclaimed designer looking for opportunity to use my skill. I make it my mission to create innovative technology that positively changes the lives of people worldwide.
+
+You can reach me on **harshilshukla96@gmail.com**
 
 ## 📌 Pinned Repositories
 
