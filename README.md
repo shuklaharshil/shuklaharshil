@@ -5,7 +5,7 @@
 
 Hey there, <img src="https://github.com/itsvinayak/itsvinayak/blob/master/assets/Hi.gif" height="30px" />
 
-I’m Harshil, software engineer, creative coder and self-proclaimed designer looking for opportunity to use my skill. I make it my mission to create innovative technology that positively changes the lives of people worldwide.
+I’m Harshil, software Developer, creative coder and self-proclaimed designer looking for opportunity to use my skill. I make it my mission to create innovative technology that positively changes the lives of people worldwide.
 
 You can reach me on **harshilshukla96@gmail.com**
 
