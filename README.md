@@ -5,8 +5,7 @@
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 
-
-I’m Harshil, software Developer, creative coder and self-proclaimed designer looking for opportunity to use my skill. I make it my mission to create innovative technology that positively changes the lives of people worldwide.
+I’m Harshil, software Designer, creative coder and self-proclaimed designer looking for opportunity to use my skill. I make it my mission to create innovative technology that positively changes the lives of people worldwide.
 
 You can reach me on **harshilshukla96@gmail.com**
 
