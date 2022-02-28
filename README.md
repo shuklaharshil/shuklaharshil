@@ -7,7 +7,8 @@
 
 I’m Harshil, software Designer, creative coder and self-proclaimed designer looking for opportunity to use my skill. I make it my mission to create innovative technology that positively changes the lives of people worldwide.
 
-You can reach me on **harshilshukla96@gmail.com**
+Want to know more about me? [Check out my resume.](https://drive.google.com/file/d/16kon-y8X878FzHi3WyK2uTExnCMopnM1/view?usp=sharing)
+
 
 ## 📌 Pinned Repositories
 
